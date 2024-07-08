@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paramgogia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paramgogia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🚀LeetCode Stats:
+![](https://leetcard.jacoblin.cool/paramgogia?ext=heatmap)
+
 ### ✍️ Quote for the Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
