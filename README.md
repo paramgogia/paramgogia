@@ -21,7 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=paramgogia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @paramgogia
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 paramgogia/paramgogia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
