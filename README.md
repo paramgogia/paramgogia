@@ -15,8 +15,6 @@
 # 🏆 Badges:
 [![An image of @paramgogia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paramgogia)](https://holopin.io/@paramgogia)
 
-# 🚀LeetCode Stats:
-![](https://leetcard.jacoblin.cool/paramgogia?ext=heatmap)
 
 ### ✍️ Quote for the Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
