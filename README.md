@@ -79,15 +79,27 @@ Philosophy:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paramgogia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" height="180"/>
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paramgogia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  height="180"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramgogia&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="180"/>
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paramgogia&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+  height="180"
+/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paramgogia&theme=tokyonight&hide_border=true&background=00000000"/>
+<!-- GitHub Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=paramgogia&theme=tokyonight&hide_border=true"
+/>
 
 </div>
+
 
 
 ## 🏆 Achievements
