@@ -77,16 +77,15 @@ Philosophy:
 
 ## 📊 GitHub Analytics
 
-<!-- Language Demographics -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paramgogia" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paramgogia" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paramgogia&theme=tokyonight" height="170" alt="repos-per-language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paramgogia&theme=tokyonight" height="170" alt="most-commit-language" />
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=paramgogia&theme=tokyonight&hide_border=true" height="170" alt="streak stats"/>
 </p>
 
-<!-- Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=paramgogia" height="180"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paramgogia&theme=tokyo-night&hide_border=true" width="800" alt="activity graph" />
+
 
 
 ## 🏆 Achievements
