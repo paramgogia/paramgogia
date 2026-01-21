@@ -1,7 +1,5 @@
 
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Param%20Gogia&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Systems%20and%20Decentralized%20Futures&descAlignY=55)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33BBFF&center=true&vCenter=true&width=520&lines=Software+Development+Engineer;Web2+%26+Web3+Developer;Space+%26+Aviation+Enthusiast;Open+Source+❤️" />
@@ -106,8 +104,6 @@ Philosophy:
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
 ```
