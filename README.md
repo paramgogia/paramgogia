@@ -77,6 +77,8 @@ Philosophy:
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paramgogia&theme=tokyonight" height="170" alt="repos-per-language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paramgogia&theme=tokyonight" height="170" alt="most-commit-language" />
 
@@ -86,6 +88,7 @@ Philosophy:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=paramgogia&theme=tokyo-night&hide_border=true" width="800" alt="activity graph" />
 
+</div>
 
 
 ## 🏆 Achievements
