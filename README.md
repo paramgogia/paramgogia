@@ -19,7 +19,6 @@
 
 </div>
 
----
 
 ## 👨‍💻 About Me
 
@@ -39,7 +38,6 @@ Philosophy:
   Build systems that are scalable, secure, and solve real-world problems.
 ````
 
----
 
 ## 🛠️ Tech Stack
 
@@ -76,7 +74,6 @@ Philosophy:
 
 </div>
 
----
 
 ## 📊 GitHub Analytics
 
@@ -92,14 +89,11 @@ Philosophy:
 
 </div>
 
----
 
 ## 🏆 Achievements
 
 [![Holopin Badges](https://holopin.me/paramgogia)](https://holopin.io/@paramgogia)
 
-
----
 
 <div align="center">
 
