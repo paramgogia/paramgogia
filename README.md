@@ -28,6 +28,7 @@ Role: Software Development Engineer
 Experience:
   - Former Intern @ Russell Investments
   - Enterprise-Scale Data & Backend Systems
+  - 13x Hack Wins and counting
 
 Focus Areas:
   - Web2: Scalable backend systems, APIs, cloud-native apps
@@ -85,8 +86,6 @@ Philosophy:
 <p>
   <img src="https://streak-stats.demolab.com?user=paramgogia&theme=tokyonight&hide_border=true" height="170" alt="streak stats"/>
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paramgogia&theme=tokyo-night&hide_border=true" width="800" alt="activity graph" />
 
 </div>
 
