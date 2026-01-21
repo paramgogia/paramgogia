@@ -1,5 +1,6 @@
 
 <div align="center">
+  
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Param%20Gogia&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Systems%20and%20Decentralized%20Futures&descAlignY=55)
 
 <a href="https://git.io/typing-svg">
