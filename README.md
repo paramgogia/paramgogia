@@ -13,7 +13,7 @@
 </div>
 
 
-## 👨‍💻 About Me
+## 👨‍💻 about_me.yaml
 
 ```yaml
 Name: Param Gogia
