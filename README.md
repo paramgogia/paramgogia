@@ -77,7 +77,7 @@ Philosophy:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paramgogia&theme=tokyonight" height="170" alt="most-commit-language" />
 
 <p>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paramgogia&theme=dark" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=paramgogia&theme=dark)](https://git.io/streak-stats)
 </p>
 
 </div>
