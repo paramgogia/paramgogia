@@ -21,7 +21,7 @@ Role: Software Development Engineer
 Experience:
   - Former Intern @ Russell Investments
   - Enterprise-Scale Data & Backend Systems
-  - 13x Hack Wins and counting
+  - 14x Hack Wins and counting
 
 Focus Areas:
   - Web2: Scalable backend systems, APIs, cloud-native apps
