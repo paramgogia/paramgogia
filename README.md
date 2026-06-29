@@ -19,7 +19,7 @@
 Name: Param Gogia
 Role: Software Development Engineer
 Experience:
-  - Former Intern @ Russell Investments
+  - Former Intern @ Browserstack, Russell Investments
   - Enterprise-Scale Data & Backend Systems
   - 14x Hack Wins and counting
 
